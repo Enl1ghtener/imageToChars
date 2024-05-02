@@ -8,7 +8,7 @@ LONG_DESCRIPTION = 'Convert image to character drawing'
 setup(
     name="imageToChars",
     version=VERSION,
-    author="YuMu chen",
+    author="YuMu Chen",
     author_email="<yumuc000@outlook.com>",
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
