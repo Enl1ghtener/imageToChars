@@ -4,7 +4,7 @@ Software package for converting images into character drawings.
 
 # Install
 
-1. [github](https://github.com/Enl1ghtener/imageToChars)
+1. [github](https://github.com/Enl1ghtener/imageToChar)
 
 2. PyPI(coming soon)
 
